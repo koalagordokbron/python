@@ -17,6 +17,6 @@ def palindrome(n):
 ### U09_Q1 ###
 
 def prints(*text):
-  print(text)
+  print("Esto es un texto" + text)
 
 prints("Hola", "Caracola", "merienda")
