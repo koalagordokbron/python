@@ -19,4 +19,4 @@ def palindrome(n):
 def prints(*text):
   print(text)
 
-prints("Hola", "Caracola", "merienda")
+prints("Hola", "Caracolaa", "merienda")
